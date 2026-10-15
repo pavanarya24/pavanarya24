@@ -23,9 +23,8 @@ Top 7 of about 9,000 traders in the fastbull.com forex and gold competition (Apr
 
 | Repository | What it is |
 |---|---|
-| [repo-name](https://github.com/pavanarya24/repo-name) | One-line description |
-| [repo-name](https://github.com/pavanarya24/repo-name) | One-line description |
-| [repo-name](https://github.com/pavanarya24/repo-name) | One-line description |
+| [Performance Deck ](https://github.com/pavanarya24/track-record) | Performance of last 6 months |
+
 
 Also: WebSocket and REST market data feeds, backtesting and walk-forward validation, tick-data pipelines.
 
