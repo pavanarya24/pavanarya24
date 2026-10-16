@@ -2,7 +2,7 @@
 
 Quantitative trader and builder of trading infrastructure. FX, gold, US equities and index futures, intraday and swing, no options. Founder of [Cycle Zero](https://cyclezero.freebuff.com). Based in Visakhapatnam, India.
 
-[LinkedIn](https://linkedin.com/in/arya-somayajula-pavan-kumar-80b56236b) | [Cycle Zero](https://cyclezero.freebuff.com) | aryapavan0369@gmail.com
+[LinkedIn](https://linkedin.com/in/arya-somayajula-pavan-kumar-80b56236b) | [Cycle Zero](https://cyclezero.freebuff.com) | aryapavan0369@gmail.com | [Portfolio](https://pavanarya24.github.io/track-record/)
 
 ## What I do
 
